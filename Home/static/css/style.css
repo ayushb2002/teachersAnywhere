@@ -337,6 +337,13 @@ html{
   height: 40vh;
 }
 
+@media only screen and (max-width: 768px) {
+    #eighth-code {
+        height: 60vh;
+        width: 100%;
+    }
+}
+
 .course-text{
   font-family: 'Lobster', cursive;
   font-size: 1.5em;
